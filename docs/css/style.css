@@ -18,7 +18,7 @@ p{
   font-size: 10pt;
 }
 
-#image:nth-child(n){
+em{
   font-size: 9pt;
   color: #787878;
   text-align: center;
